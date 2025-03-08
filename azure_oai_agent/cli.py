@@ -14,7 +14,7 @@ import asyncio
 import aiohttp
 
 # Load environment variables
-load_dotenv("C:/Users/hasan/OneDrive/Desktop/Azure OpenAI Agent/azure_oai_agent/.env")
+load_dotenv()
 
 console = Console()
 
