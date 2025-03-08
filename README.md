@@ -51,15 +51,15 @@ CLI-AGENT is a command-line interface tool that provides access to AI assistants
 
 1.  Clone this repository:
         ```bash
-        git clone [<repository-url>](https://github.com/Hasan-Syed25/CLIAgentX)
+        git clone https://github.com/Hasan-Syed25/CLIAgent
         cd cli-agent
         ```
-2.  Install the package:
+3.  Install the package:
         ```bash
         pip install -e .
         ```
 
-3.  Set up your API keys (either in environment variables or via command-line arguments)
+4.  Set up your API keys (either in environment variables or via command-line arguments)
 
 ## Usage
 
